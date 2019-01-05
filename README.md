@@ -1,2 +1,2 @@
 # NameGenerator
-A random name generator
+<p>A Random name generator written in Java
